@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml:2:3-4:14
+INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml:2:3-4:14
+INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml:2:3-4:14
+INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml:2:3-4:14
+INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml:2:3-4:14
+INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml:2:3-4:14
+INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml:2:3-4:14
+	package
+		ADDED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml:3:7-44
+		INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml
+		INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml
+		ADDED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml:2:3-4:14
+		INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml
+		ADDED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml:2:3-4:14
+		INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml:2:13-71
+uses-sdk
+INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml
+INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml
+INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml
+INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml
+		ADDED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml
+		INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml
+		ADDED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml
+		INJECTED from E:\POS\temp src\ClientApp\app-update\android\src\main\AndroidManifest.xml
